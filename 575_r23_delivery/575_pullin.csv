@@ -1,0 +1,9 @@
+﻿metric,value
+Vbias_V,8.0
+max_abs_static_displacement_m,4.2230492576257134e-08
+gap_m,1.8e-06
+gap_fraction,0.023461384764587298
+pullin_displacement_fraction_limit,0.3333333333333333
+pullin_voltage_V,20.5859947811668
+pullin_voltage_margin,2.57324934764585
+pullin_displacement_margin,14.20774334840064
